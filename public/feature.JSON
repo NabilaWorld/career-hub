@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+
+        "image": "https://www.indiastudychannel.com/attachments/resources/159720-144040-Google-Icon.jpg",
+
+        "first_text":"Technical Database Engineer",
+        "second_text": "Google LLC",
+        "button_one": "Remote",
+        "button_two": "Full Time",
+        "img_1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqIQT8wXBxZUgXKnM697Xd_FC3ow9lPfTIQg&usqp=CAU",
+        "text_1": "Dhaka, Bangladesh",
+        "img_2": "https://static.vecteezy.com/system/resources/previews/002/261/149/original/black-icon-dollar-symbol-sign-isolate-on-white-background-illustration-eps-10-free-vector.jpg",
+        "text_2": "Salary : 100K - 150K",
+        "button": "View Details" 
+        
+      },
+
+      {
+        "id": 2,
+
+        "image": "https://cdn-icons-png.flaticon.com/512/5977/5977590.png",
+
+        "first_text":"Senior Product Designer",
+        "second_text": "Netflix",
+        "button_one": "Onsite",
+        "button_two": "Full Time",
+        "img_1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqIQT8wXBxZUgXKnM697Xd_FC3ow9lPfTIQg&usqp=CAU",
+        "text_1": "Dhaka, Bangladesh",
+        "img_2": "https://static.vecteezy.com/system/resources/previews/002/261/149/original/black-icon-dollar-symbol-sign-isolate-on-white-background-illustration-eps-10-free-vector.jpg",
+        "text_2": "Salary : 100K - 150K",
+        "button": "View Details" 
+        
+      },
+
+      {
+        "id": 3,
+
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu4gCl3HPHeVBLIHxoaXHRTM-keB4s7j-N0Q&usqp=CAU",
+
+        "first_text":"Software Engineer",
+        "second_text": "Tesla",
+        "button_one": "OnSite",
+        "button_two": "Full Time",
+        "img_1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqIQT8wXBxZUgXKnM697Xd_FC3ow9lPfTIQg&usqp=CAU",
+        "text_1": "Dhaka, Bangladesh",
+        "img_2": "https://static.vecteezy.com/system/resources/previews/002/261/149/original/black-icon-dollar-symbol-sign-isolate-on-white-background-illustration-eps-10-free-vector.jpg",
+        "text_2": "Salary : 100K - 150K",
+        "button": "View Details" 
+        
+      },
+
+      {
+        "id": 4,
+
+        "image": "https://www.indiastudychannel.com/attachments/resources/159720-144040-Google-Icon.jpg",
+
+        "first_text":"Technical Database Engineer",
+        "second_text": "Google LLC",
+        "button_one": "Remote",
+        "button_two": "Full Time",
+        "img_1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqIQT8wXBxZUgXKnM697Xd_FC3ow9lPfTIQg&usqp=CAU",
+        "text_1": "Dhaka, Bangladesh",
+        "img_2": "https://static.vecteezy.com/system/resources/previews/002/261/149/original/black-icon-dollar-symbol-sign-isolate-on-white-background-illustration-eps-10-free-vector.jpg",
+        "text_2": "Salary : 100K - 150K",
+        "button": "View Details" 
+        
+      }
+      
+]

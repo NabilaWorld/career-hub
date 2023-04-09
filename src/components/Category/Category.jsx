@@ -16,7 +16,7 @@ const Category = () => {
             <p className='text-gray-500 mb-20'>Explore thousands of job opportunities with all the information you need. Its your future</p>
             </div>
 
-            <div className='grid md:grid-cols-4 ml-20 mx-32  '>
+            <div className='grid md:grid-cols-4 md:ml-20 md:mx-32 ml-10  '>
                 {
                     carts.map(cart => <Cart
                     key = {cart.id}
