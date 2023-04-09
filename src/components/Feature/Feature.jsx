@@ -25,7 +25,7 @@ const Feature = () => {
                     }
                     
 
-    <center><button className='btn btn-secondary mt-5 ml-96 w-32 mb-10'>See All Jobs</button></center>
+    <center><button className='btn btn-secondary mt-5 md:ml-96 w-32 mb-10'>See All Jobs</button></center>
                 </div>
         </div>
     );
