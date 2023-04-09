@@ -2,6 +2,7 @@ import React from 'react';
 import { useLoaderData } from 'react-router-dom';
 import LandingPages from '../LandingPages/LandingPages';
 import Category from '../Category/Category';
+import Feature from '../Feature/Feature';
 
 const Home = () => {
     const landingPages = useLoaderData();
@@ -15,6 +16,7 @@ const Home = () => {
             }
 
             <Category></Category>
+            <Feature></Feature>
         </div>
     );
 };

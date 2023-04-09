@@ -13,10 +13,10 @@ const Category = () => {
         <div>
             <div className='text-center mt-32'>
             <h1 className='text-3xl font-bold mb-4 '>Job Category List</h1>
-            <p className='text-gray-800 mb-20'>Explore thousands of job opportunities with all the information you need. Its your future</p>
+            <p className='text-gray-500 mb-20'>Explore thousands of job opportunities with all the information you need. Its your future</p>
             </div>
 
-            <div>
+            <div className='grid md:grid-cols-4 ml-20 mx-32  '>
                 {
                     carts.map(cart => <Cart
                     key = {cart.id}
