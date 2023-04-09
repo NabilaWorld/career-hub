@@ -1,10 +1,10 @@
 import React from 'react';
 import { useLoaderData } from 'react-router-dom';
 import LandingPages from '../LandingPages/LandingPages';
+import Category from '../Category/Category';
 
 const Home = () => {
     const landingPages = useLoaderData();
-    // console.log(landingPages)
     return (
         <div>
             {
@@ -13,6 +13,8 @@ const Home = () => {
                 landingPage = {landingPage}
                 ></LandingPages> )
             }
+
+            <Category></Category>
         </div>
     );
 };

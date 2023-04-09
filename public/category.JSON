@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh51BYpzekC3PsrZYCsd4cmLmWf0KHGkSjAEpR9xjnz5CnCW-WAN2CNEfK6D8WgMhzsS4&usqp=CAU",
+
+        "text":"Account & Finance",
+        "salary": "300 Jobs Available"
+        
+      },
+
+      {
+        "id": 2,
+        
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ZLFWZrPzYJ1JnILIz-YjtncDEAT78pSQtr0CRYZnNxHGnv-dVopNyHmITk2g6Vnd1WM&usqp=CAU",
+
+        "text":"Creative Design",
+        "salary": "100+ Jobs Available"
+        
+      },
+
+      {
+        "id": 3,
+        
+        "image": "https://static.thenounproject.com/png/1013164-200.png",
+
+        "text":"Marketing & Sales",
+        "salary": "150 Jobs Available"
+        
+      },
+
+      {
+        "id": 4,
+        
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ygCGavku6ajho2w8yCrOpi5vjwpg78dk6A&usqp=CAU",
+
+        "text":"Engineering Job",
+        "salary": "224 Jobs Available"
+        
+      }
+      
+]
