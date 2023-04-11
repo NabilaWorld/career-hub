@@ -20,7 +20,7 @@ const cartProductsLoader = async (id) => {
     
     // console.log(typeof id)
     // console.log(products)
-    console.log(product)
+    // console.log(product)
     
     return product;
   };

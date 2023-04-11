@@ -1,16 +1,26 @@
 import React from 'react';
 import { useLoaderData } from 'react-router-dom';
+import { addToDb } from '../../utils/fakeDB';
 
 const JobDetails = () => {
     const jobTries = useLoaderData();
-    const {job_description, job_responsibilities, educational_requirements, experience, Salary, Job, Phone, Email, Address} = jobTries;
+    const {id, job_description, job_responsibilities, educational_requirements, experience, Salary, Job, Phone, Email, Address} = jobTries;
     // console.log(jobTries);
     // const product = jobTries.find((p) => p.id === id)
 
-    
+    const handleAddToCart = (id) =>{
+        console.log(id)
+        addToDb(id)
+    }
 
     return (
+
+        <div>
+             <center><h1 className='mt-10 font-bold text-2xl'>Job Details</h1></center>
+
         <div className='grid md:grid-cols-2'>
+
+           
             <div className='md:ml-20 ml-4 mt-20 '>
 
              <b>Job Description:</b> <p className='text-gray-500'> {job_description}</p> 
@@ -67,9 +77,11 @@ const JobDetails = () => {
                 </div>
                 
             </div>
-            <button className='btn btn-primary md:mb-10 mb-5 md:w-96 w-40 ml-20'>Apply Now</button> 
+            <button onClick={() => handleAddToCart(id)} className='btn btn-primary md:mb-10 mb-5 md:w-96 w-40 ml-20'>Apply Now</button> 
             </div>
            
+        </div>
+
         </div>
     );
 };
