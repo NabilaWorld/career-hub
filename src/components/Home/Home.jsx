@@ -6,13 +6,14 @@ import Feature from '../Feature/Feature';
 
 const Home = () => {
     const landingPages = useLoaderData();
+    // console.log(landingPages)
     return (
         <div>
             {
-                landingPages.map(landingPage => <LandingPages
-                key = {landingPage.id}
-                landingPage = {landingPage}
-                ></LandingPages> )
+                 landingPages.map(landingPage => <LandingPages
+                    key = {landingPage.id}
+                    landingPage = {landingPage}
+                    ></LandingPages> )
             }
 
             <Category></Category>

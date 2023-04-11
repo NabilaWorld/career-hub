@@ -9,8 +9,11 @@ import {
 import Home from './components/Home/Home';
 import Main from './components/Layoutt/Main';
 import Statistics from './components/Statistics/Statistics';
-import Job from './components/Job/Job';
 import Blog from './components/Blog/Blog';
+import Job from './components/Job/Job';
+import JobDetails from './components/JobDetails/JobDetails';
+import cartProductsLoader from './loaders/cartProductsLoader';
+
 
 
 const router = createBrowserRouter([
@@ -23,10 +26,19 @@ const router = createBrowserRouter([
         element:<Home></Home>,
         loader: () => fetch('introduction.JSON') ,
       },
+
+      {
+        path:'jobhub/:id',
+        element:<JobDetails></JobDetails>,
+        loader: ({params})=>cartProductsLoader(params.id),
+        
+      },
+
       {
         path:'/statistics',
         element:<Statistics></Statistics>
       },
+      
       
         {
           path:'/job',

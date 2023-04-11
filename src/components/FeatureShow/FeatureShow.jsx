@@ -1,4 +1,6 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+
 
 const FeatureShow = ({feature}) => {
     const {image, first_text, second_text, button_one, button_two, img_1, text_1, img_2, text_2, button} = feature;
@@ -10,19 +12,21 @@ const FeatureShow = ({feature}) => {
             <button className='border px-3 mr-5 mb-4 text-blue-400'>{button_one}</button>
             <button className='border px-3 mb-4 text-blue-400'>{button_two}</button>
 
-            <div className='flex'>
-                <div className='flex mr-5 mb-4'>
+            <div className='flex items-center'>
+                <div className='flex mr-5 mb-4 items-center mt-3'>
                     <img className='h-5 w-5' src={img_1}></img>
                     <h1>{text_1}</h1>
                 </div>
 
-                <div className='flex'>
+                <div className='flex items-center'>
                     <img className='h-5 w-5' src={img_2}></img>
                     <h1>{text_2}</h1>
                 </div>
             </div>
 
-            <button className='btn btn-secondary'>{button}</button>
+            
+            < Link to={`/jobhub/${feature.id}`}><button className='btn btn-secondary'>{button}</button> </Link>
+            
 
             
 
