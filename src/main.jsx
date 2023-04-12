@@ -13,6 +13,7 @@ import Blog from './components/Blog/Blog';
 import Job from './components/Job/Job';
 import JobDetails from './components/JobDetails/JobDetails';
 import cartProductsLoader from './loaders/cartProductsLoader';
+import { productsAndCartData } from './loader/getCartAndProductData';
 
 
 
@@ -44,7 +45,7 @@ const router = createBrowserRouter([
           path:'/job',
           element: <Job></Job>,
           // // loader: ({params})=>cartProductsLoader(params.id),
-          // loader: ()=> fetch('/jobDetails.json')
+          loader: productsAndCartData,
           
         },
         {
