@@ -14,6 +14,7 @@ import Job from './components/Job/Job';
 import JobDetails from './components/JobDetails/JobDetails';
 import cartProductsLoader from './loaders/cartProductsLoader';
 import { productsAndCartData } from './loader/getCartAndProductData';
+import ErrorPage from './components/Error/ErrorPage';
 
 
 
@@ -21,6 +22,7 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <Main></Main>,
+    errorElement: <ErrorPage></ErrorPage>,
     children:[
       {
         path:'/',
