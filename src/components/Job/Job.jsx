@@ -12,6 +12,9 @@ const Job = () => {
     // console.log(products)
     return (
         <div>
+            <div className='my-10'>
+            <h1 className='text-center  font-bold text-2xl bg-pink-100 p-10 mx-10 rounded-xl'>Job Details</h1>
+            </div>
             <ul>
                 {
                     newArr.map(product=> <JobItems

@@ -27,16 +27,19 @@
     },
     {
         "id": 2,
-        "job_description": "We are seeking a skilled Technical Database Engineer to join our team. As a Technical Database Engineer, you will be responsible for designing, implementing, and maintaining complex database systems to support business applications. You will work closely with our software development team to ensure database performance, security, and availability.",
-        "job_responsibilities": "The Technical Database Engineer is responsible for designing, implementing, and maintaining complex database systems to support business applications. They collaborate with software developers to ensure database performance, security, and availability, troubleshoot and resolve database issues, and stay up-to-date with emerging database technologies and trends. Additionally, they develop and maintain backup and disaster recovery plans and provide after-hours support for critical database issues.",
-        "educational_requirements": "Bachelor's degree in marketing, business, or a related field",
-        "experience": "3+ years of experience in marketing or a related field",
+        "job_description": "To be considered for this role, you should have a Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field. You should also have strong programming skills and experience working with databases and database management systems.",
 
-        "Salary": "100K - 150K (Per Month)",
-        "Job": "Product Designer",
-        "Phone": "01750-00 00 00",
-        "Email": "info@gmail.com",
-        "Address": "Dhanmondi 32",
+        "job_responsibilities": "As a Database Engineer, you will be responsible for designing, developing, testing, and maintaining the databases and database systems that support Google's products and services. Your responsibilities may include designing and implementing databases, developing and testing database software, and ensuring that the databases are scalable, reliable, and secure.",
+
+        "educational_requirements": "Bachelor's degree in networking, routing or a related field",
+
+        "experience": "5+ years of experience in networking or a related field",
+
+        "Salary": "80K - 100K (Per Month)",
+        "Job": "Network connection",
+        "Phone": "01990-33 45 04",
+        "Email": "myjob@gmail.com",
+        "Address": "Gulshan 32",
 
         "img_1": "https://thumbs.dreamstime.com/b/dollar-sign-dollar-sign-icon-dollar-sign-dollar-sign-icon-vector-illustration-graphic-web-design-170432064.jpg",
 
@@ -50,16 +53,19 @@
     },
     {
         "id": 3,
-        "job_description": "We are seeking a skilled Technical Database Engineer to join our team. As a Technical Database Engineer, you will be responsible for designing, implementing, and maintaining complex database systems to support business applications. You will work closely with our software development team to ensure database performance, security, and availability.",
-        "job_responsibilities": "The Technical Database Engineer is responsible for designing, implementing, and maintaining complex database systems to support business applications. They collaborate with software developers to ensure database performance, security, and availability, troubleshoot and resolve database issues, and stay up-to-date with emerging database technologies and trends. Additionally, they develop and maintain backup and disaster recovery plans and provide after-hours support for critical database issues.",
-        "educational_requirements": "Bachelor's degree in marketing, business, or a related field",
-        "experience": "3+ years of experience in marketing or a related field",
+        "job_description": "To be considered for this role, you should have a Bachelor's or Master's degree in Computer Engineering, Electrical Engineering, or a related technical field. You should also have strong programming skills, experience with computer hardware and software systems, and a deep understanding of computer architecture and design. Additionally, you should be able to work effectively in a team environment and be willing to learn and adapt to new technologies and tools.",
 
-        "Salary": "100K - 150K (Per Month)",
-        "Job": "Product Designer",
-        "Phone": "01750-00 00 00",
-        "Email": "info@gmail.com",
-        "Address": "Dhanmondi 32",
+        "job_responsibilities": "As a Computer Engineer, you will be responsible for designing, developing, and testing computer systems and components that support Google's products and services. Your responsibilities may include designing and developing computer systems, testing and debugging computer systems, collaborating with cross-functional teams, and staying up-to-date with industry trends.",
+
+        "educational_requirements": "Bachelor's degree in computer science, or a related field",
+
+        "experience": "1+ years of experience in computer or a related field",
+
+        "Salary": "50K - 150K (Per Month)",
+        "Job": "Androwed Developer",
+        "Phone": "01959-90 50 77",
+        "Email": "cse@gmail.com",
+        "Address": "Shylet",
 
 
         "img_1": "https://thumbs.dreamstime.com/b/dollar-sign-dollar-sign-icon-dollar-sign-dollar-sign-icon-vector-illustration-graphic-web-design-170432064.jpg",
@@ -74,8 +80,65 @@
     },
     {
         "id": 4,
-        "job_description": "We are seeking a skilled Technical Database Engineer to join our team. As a Technical Database Engineer, you will be responsible for designing, implementing, and maintaining complex database systems to support business applications. You will work closely with our software development team to ensure database performance, security, and availability.",
-        "job_responsibilities": "The Technical Database Engineer is responsible for designing, implementing, and maintaining complex database systems to support business applications. They collaborate with software developers to ensure database performance, security, and availability, troubleshoot and resolve database issues, and stay up-to-date with emerging database technologies and trends. Additionally, they develop and maintain backup and disaster recovery plans and provide after-hours support for critical database issues.",
+        "job_description": "To be considered for this role, you should have a Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field. You should also have strong programming skills, experience with machine learning algorithms and frameworks, and a deep understanding of statistical and probabilistic models. Additionally, you should be able to work effectively in a team environment and be willing to learn and adapt to new technologies and tools.",
+
+        "job_responsibilities": "As a Machine Learning Engineer at Google, you will be responsible for developing and deploying machine learning models that support Google's products and services. Your responsibilities may include developing and implementing machine learning algorithms, designing and conducting experiments to evaluate the effectiveness of the models, and integrating the models into Google's products and services.You will also work with other teams, including software engineers and data scientists, to ensure that the machine learning models are integrated properly into the products and services.",
+
+        "educational_requirements": "Bachelor's degree in CSE and IT, or a related field",
+        "experience": "3+ years of experience in CSE or a related field",
+
+        "Salary": "100K - 150K (Per Month)",
+        "Job": "Machine learner",
+        "Phone": "01750-00 00 00",
+        "Email": "machine@gmail.com",
+        "Address": "Bogura 32",
+
+
+        "img_1": "https://thumbs.dreamstime.com/b/dollar-sign-dollar-sign-icon-dollar-sign-dollar-sign-icon-vector-illustration-graphic-web-design-170432064.jpg",
+
+        "img_2": "https://static.thenounproject.com/png/1551321-200.png",
+
+        "img_3": "https://static.vecteezy.com/system/resources/thumbnails/003/720/476/small/phone-icon-telephone-icon-symbol-for-app-and-messenger-vector.jpg",
+
+        "img_4": "https://png.pngtree.com/png-vector/20190927/ourmid/pngtree-email-icon-png-image_1757854.jpg",
+
+        "img_5": "https://pixsector.com/cache/2102b688/av924d89f198e4e084336.png"
+    },
+
+
+    {
+        "id": 5,
+        "job_description": "To be considered for this role, you should have a Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field. You should also have strong programming skills, experience with machine learning algorithms and frameworks, and a deep understanding of statistical and probabilistic models. Additionally, you should have experience with natural language processing and computer vision, and be willing to learn and adapt to new technologies and tools. You should also be able to work effectively in a team environment and have strong communication skills.",
+
+        "job_responsibilities": "As an AI Engineer at Google, you will be responsible for designing, developing, and implementing artificial intelligence solutions that support Google's products and services. Your responsibilities may include designing and developing machine learning algorithms, creating natural language processing systems, developing computer vision systems, and designing and conducting experiments to evaluate the effectiveness of the AI models.",
+
+        "educational_requirements": "Bachelor's degree in marketing, business, or a related field",
+        "experience": "8+ years of experience in marketing or a related field",
+
+        "Salary": "10K - 150K (Per Month)",
+        "Job": "Product Designer",
+        "Phone": "01750-00 00 00",
+        "Email": "info@gmail.com",
+        "Address": "Dhanmondi 32",
+
+
+        "img_1": "https://thumbs.dreamstime.com/b/dollar-sign-dollar-sign-icon-dollar-sign-dollar-sign-icon-vector-illustration-graphic-web-design-170432064.jpg",
+
+        "img_2": "https://static.thenounproject.com/png/1551321-200.png",
+
+        "img_3": "https://static.vecteezy.com/system/resources/thumbnails/003/720/476/small/phone-icon-telephone-icon-symbol-for-app-and-messenger-vector.jpg",
+
+        "img_4": "https://png.pngtree.com/png-vector/20190927/ourmid/pngtree-email-icon-png-image_1757854.jpg",
+
+        "img_5": "https://pixsector.com/cache/2102b688/av924d89f198e4e084336.png"
+    },
+
+    {
+        "id": 6,
+        "job_description": "To be considered for this role, you should have a Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field. You should also have strong programming skills and experience with database management systems and SQL. Additionally, you should have experience with ETL pipelines, data modeling, and data warehousing concepts. You should be able to work effectively in a team environment and have strong communication skills.",
+
+        "job_responsibilities": "As a Data Warehouse Engineer at Google, you will be responsible for designing, developing, and maintaining data warehouse systems that support Google's products and services. Your responsibilities may include designing and implementing data warehouse schemas, developing and maintaining ETL (Extract, Transform, Load) pipelines, and optimizing database performance.",
+
         "educational_requirements": "Bachelor's degree in marketing, business, or a related field",
         "experience": "3+ years of experience in marketing or a related field",
 

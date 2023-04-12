@@ -1,7 +1,8 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const JobItems = ({product}) => {
-    const {image, first_text, second_text, button_one, button_two, img_1, text_1, img_2, text_2, button} = product;
+    const {id, image, first_text, second_text, button_one, button_two, img_1, text_1, img_2, text_2, button} = product;
 
     return (
         <div>
@@ -29,7 +30,9 @@ const JobItems = ({product}) => {
                 </div>
             </div>
 
-            <button className='btn btn-secondary w-32 md:ml-96'>{button}</button>
+
+            <Link to={`/jobhub/${id}`}><button className='btn btn-secondary w-32 md:ml-96'>{button}</button></Link>
+            
         </div>
 
         </div>

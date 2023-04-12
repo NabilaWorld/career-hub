@@ -53,7 +53,7 @@
       {
         "id": 4,
 
-        "image": "https://www.indiastudychannel.com/attachments/resources/159720-144040-Google-Icon.jpg",
+        "image": "https://www.designevo.com/images/blog/amazon-logo/1998-amazon-logo.jpg",
 
         "first_text":"Technical Database Engineer",
         "second_text": "Google LLC",
@@ -63,6 +63,42 @@
         "text_1": "Dhaka, Bangladesh",
         "img_2": "https://static.vecteezy.com/system/resources/previews/002/261/149/original/black-icon-dollar-symbol-sign-isolate-on-white-background-illustration-eps-10-free-vector.jpg",
         "text_2": "Salary : 100K - 150K",
+        "button": "View Details" 
+        
+      },
+
+
+      {
+        "id": 5,
+
+        "image": "https://github.githubassets.com/images/modules/open_graph/github-logo.png",
+
+        "first_text":"Lab Engineer",
+        "second_text": "GitLab.com",
+        "button_one": "Onsite",
+        "button_two": "Full Time",
+        "img_1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqIQT8wXBxZUgXKnM697Xd_FC3ow9lPfTIQg&usqp=CAU",
+        "text_1": "Rajshahi, Bangladesh",
+        "img_2": "https://static.vecteezy.com/system/resources/previews/002/261/149/original/black-icon-dollar-symbol-sign-isolate-on-white-background-illustration-eps-10-free-vector.jpg",
+        "text_2": "Salary : 50K - 150K",
+        "button": "View Details" 
+        
+      },
+
+
+      {
+        "id": 6,
+
+        "image": "https://png.pngtree.com/templates/20180906/network-logo-template-png_31171.jpg",
+
+        "first_text":"Networing Engineer",
+        "second_text": "Network LLC",
+        "button_one": "Remote",
+        "button_two": "Full Time",
+        "img_1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqIQT8wXBxZUgXKnM697Xd_FC3ow9lPfTIQg&usqp=CAU",
+        "text_1": "Dhaka, Bangladesh",
+        "img_2": "https://static.vecteezy.com/system/resources/previews/002/261/149/original/black-icon-dollar-symbol-sign-isolate-on-white-background-illustration-eps-10-free-vector.jpg",
+        "text_2": "Salary : 80K - 100K",
         "button": "View Details" 
         
       }
