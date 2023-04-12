@@ -8,19 +8,13 @@ const JobDetails = () => {
     // console.log(jobTries);
     // const product = jobTries.find((p) => p.id === id)
 
-    const handleAddToCart = (id) =>{
-        console.log(id)
+    const handleJobData = id =>{
+        // console.log(id)
         addToDb(id)
     }
 
     return (
-
-        <div>
-             <center><h1 className='mt-10 font-bold text-2xl'>Job Details</h1></center>
-
         <div className='grid md:grid-cols-2'>
-
-           
             <div className='md:ml-20 ml-4 mt-20 '>
 
              <b>Job Description:</b> <p className='text-gray-500'> {job_description}</p> 
@@ -33,11 +27,11 @@ const JobDetails = () => {
              <b>Experiences:</b> <p className='text-gray-500'> {experience}</p> <br />
             </div>
 
-            
+
             <div>
             <div className='md:ml-20 ml-10 mt-20 bg-gray-200 mb-7 p-10 md:mr-60 mr-10 rounded-xl'>
                 <h1 className='font-bold '>Job Details</h1> <br />
-              
+
 
                 <div >
                     <img src="" alt="" />
@@ -55,7 +49,7 @@ const JobDetails = () => {
                 <br />
 
                 <h1 className='font-bold mb-5'>Contact Information</h1>
-                
+
 
                 <div>
                     <img src="" alt="" />
@@ -75,12 +69,10 @@ const JobDetails = () => {
 
                     <p className='mb-2'> <b>Address :</b> <span className='text-gray-500'>{Address}</span> </p>
                 </div>
-                
+
             </div>
-            <button onClick={() => handleAddToCart(id)} className='btn btn-primary md:mb-10 mb-5 md:w-96 w-40 ml-20'>Apply Now</button> 
+            <button onClick={()=>handleJobData(id)} className='btn btn-primary md:mb-10 mb-5 md:w-96 w-40 ml-20'>Apply Now</button> 
             </div>
-           
-        </div>
 
         </div>
     );

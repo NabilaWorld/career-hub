@@ -10,7 +10,7 @@ const Home = () => {
     return (
         <div>
             {
-                 landingPages.map(landingPage => <LandingPages
+                 landingPages?.map(landingPage => <LandingPages
                     key = {landingPage.id}
                     landingPage = {landingPage}
                     ></LandingPages> )
